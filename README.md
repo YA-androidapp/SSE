@@ -21,3 +21,7 @@ $ python app.py
 ```
 http://127.0.0.1:5000/
 ```
+
+---
+
+Copyright (c) 2019 YA-androidapp(https://github.com/YA-androidapp) All rights reserved.
